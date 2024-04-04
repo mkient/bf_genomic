@@ -1,0 +1,42 @@
+id,gene_id,gene_name,cnv_type,gene_strand,gene_description,contig,start,end,frq_An_arabiensis_2015,frq_An_coluzzii_2012,frq_An_coluzzii_2014,frq_An_coluzzii_2015,frq_An_coluzzii_2016,frq_An_coluzzii_2017,frq_An_gambiae_ss_2012,frq_An_gambiae_ss_2014,frq_An_gambiae_ss_2015,frq_An_gambiae_ss_2016,frq_An_gambiae_ss_2017,max_af
+0,AGAP000163,GSTMS2,amp,-,glutathione transferase microsomal 2 [Source:VB Community Annotation],X,2843996,2846441,0,0,0,0,0,0,0,0.00729927,0,0,0,0.00729927
+1,AGAP000163,GSTMS2,del,-,glutathione transferase microsomal 2 [Source:VB Community Annotation],X,2843996,2846441,0.023255814,0,0.008130081,0,0,0,0,0,0.007751938,0,0,0.023255814
+2,AGAP000165,GSTMS1,amp,-,glutathione transferase microsomal 1 [Source:VB Community Annotation],X,2849321,2851042,0,0,0,0,0,0,0,0.00729927,0,0,0,0.00729927
+3,AGAP000165,GSTMS1,del,-,glutathione transferase microsomal 1 [Source:VB Community Annotation],X,2849321,2851042,0.023255814,0,0.008130081,0,0.012658228,0,0,0,0.007751938,0,0,0.023255814
+4,AGAP000761,GSTT1,amp,-,glutathione S-transferase theta class 1 [Source:VB Community Annotation],X,13784275,13785443,0,0.0125,0.081300813,0.048192771,0.088607595,0.081761006,0.020618557,0.102189781,0.178294574,0.087378641,0.085714286,0.178294574
+5,AGAP000888,GSTT2,amp,-,glutathione S-transferase theta class 2 [Source:VB Community Annotation],X,16746634,16747763,0.302325581,0.0125,0.138211382,0.024096386,0.044303797,0.031446541,0.030927835,0.138686131,0.015503876,0.009708738,0,0.302325581
+8,AGAP000947,GSTU1,amp,-,glutathione S-transferase unclassified 1 [Source:VB Community Annotation],X,18315337,18316465,0,0.0125,0.016260163,0.006024096,0,0,0,0.00729927,0,0,0,0.016260163
+9,AGAP000947,GSTU1,del,-,glutathione S-transferase unclassified 1 [Source:VB Community Annotation],X,18315337,18316465,0,0,0.016260163,0.006024096,0.050632911,0.006289308,0,0.058394161,0.007751938,0.048543689,0.028571429,0.058394161
+10,AGAP002898,GSTZ1,amp,-,glutathione S-transferase zeta class 1 [Source:VB Community Annotation],2R,29080227,29096273,0,0,0.008130081,0,0,0,0,0,0,0,0,0.008130081
+20,AGAP003257,GSTU2,amp,-,glutathione S-transferase unclassified 2 [Source:VB Community Annotation],2R,34496913,34498065,0,0.025,0,0,0,0,0,0,0,0,0,0.025
+21,AGAP004164,GSTD1-4,del,+,glutathione S-transferase delta class 1 [Source:VB Community Annotation],2R,50997215,51001446,0,0,0,0,0.012658228,0,0,0,0,0,0.057142857,0.057142857
+22,AGAP004171,GSTD8,amp,-,glutathione S-transferase delta class 8 [Source:VB Community Annotation],2R,51215221,51215969,0,0,0,0.012048193,0.050632911,0.050314465,0,0.051094891,0.015503876,0.155339806,0.228571429,0.228571429
+23,AGAP004172,GSTD9,amp,-,glutathione S-transferase delta class 9 [Source:VB Community Annotation],2R,51216222,51216872,0,0,0,0.012048193,0.044303797,0.037735849,0,0.051094891,0.015503876,0.155339806,0.228571429,0.228571429
+24,AGAP004172,GSTD9,del,-,glutathione S-transferase delta class 9 [Source:VB Community Annotation],2R,51216222,51216872,0,0,0,0,0,0.006289308,0,0,0,0,0,0.006289308
+25,AGAP004173,GSTD5,del,+,glutathione S-transferase delta class 5 [Source:VB Community Annotation],2R,51217666,51218384,1,0.7375,0.723577236,0.686746988,0.626582278,0.679245283,0.969072165,0.98540146,1,0.990291262,1,1
+26,AGAP004378,GSTD11,amp,+,glutathione S-transferase delta class 11 [Source:VB Community Annotation],2R,55501882,55502739,0,0,0,0,0,0,0.010309278,0,0,0,0,0.010309278
+27,AGAP004378,GSTD11,del,+,glutathione S-transferase delta class 11 [Source:VB Community Annotation],2R,55501882,55502739,0,0.0125,0,0,0,0,0,0,0,0,0,0.0125
+28,AGAP004379,GSTD6,amp,+,glutathione S-transferase delta class 6 [Source:VB Community Annotation],2R,55502982,55504235,0,0,0,0,0,0,0.010309278,0,0,0,0,0.010309278
+29,AGAP004379,GSTD6,del,+,glutathione S-transferase delta class 6 [Source:VB Community Annotation],2R,55502982,55504235,0,0.0125,0,0,0,0,0,0,0,0,0,0.0125
+30,AGAP004380,GSTD12,amp,-,glutathione S-transferase delta class 12 [Source:VB Community Annotation],2R,55504530,55505364,0,0,0,0,0,0.006289308,0.010309278,0,0.007751938,0,0.028571429,0.028571429
+31,AGAP004380,GSTD12,del,-,glutathione S-transferase delta class 12 [Source:VB Community Annotation],2R,55504530,55505364,0,0.45,0.130081301,0.096385542,0.044303797,0.037735849,0.18556701,0.01459854,0.015503876,0,0,0.45
+32,AGAP004381,GSTD4,amp,-,glutathione S-transferase delta class 4 [Source:VB Community Annotation],2R,55505659,55506534,0,0,0,0,0,0,0.010309278,0,0,0,0,0.010309278
+33,AGAP004381,GSTD4,del,-,glutathione S-transferase delta class 4 [Source:VB Community Annotation],2R,55505659,55506534,0,0.45,0.12195122,0.084337349,0.044303797,0.037735849,0.18556701,0.00729927,0.015503876,0,0,0.45
+34,AGAP004382,GSTD3,amp,-,glutathione S-transferase delta class 3 [Source:VB Community Annotation],2R,55509263,55510160,0,0.0125,0.016260163,0,0.025316456,0.012578616,0,0,0,0.009708738,0,0.025316456
+35,AGAP004382,GSTD3,del,-,glutathione S-transferase delta class 3 [Source:VB Community Annotation],2R,55509263,55510160,0,0,0,0,0,0.006289308,0,0,0,0,0,0.006289308
+36,AGAP004383,GSTD10,amp,-,glutathione S-transferase delta class 10 [Source:VB Community Annotation],2R,55513083,55513848,0,0,0.008130081,0,0,0,0,0,0.007751938,0.009708738,0,0.009708738
+37,AGAP004383,GSTD10,del,-,glutathione S-transferase delta class 10 [Source:VB Community Annotation],2R,55513083,55513848,0,0,0.008130081,0,0.006329114,0,0,0,0,0,0,0.008130081
+38,AGAP005749,GSTO1,amp,-,glutathione S-transferase omega class 1 [Source:VB Community Annotation],2L,20197176,20199146,0,0,0.008130081,0.006024096,0.037974684,0.006289308,0,0.00729927,0.007751938,0,0,0.037974684
+39,AGAP009191,GSTE6,del,+,glutathione S-transferase epsilon class 6 [Source:VB Community Annotation],3R,28593714,28594762,0.023255814,0,0,0,0,0,0,0,0,0,0,0.023255814
+40,AGAP009192,GSTE5,del,-,glutathione S-transferase epsilon class 5 [Source:VB Community Annotation],3R,28594993,28595802,0.023255814,0,0,0,0,0,0,0,0,0,0,0.023255814
+41,AGAP009193,GSTE4,amp,-,glutathione S-transferase epsilon class 4 [Source:VB Community Annotation],3R,28595948,28596868,0,0,0,0.006024096,0.006329114,0.012578616,0,0.01459854,0.007751938,0.009708738,0,0.01459854
+42,AGAP009193,GSTE4,del,-,glutathione S-transferase epsilon class 4 [Source:VB Community Annotation],3R,28595948,28596868,0.023255814,0,0,0,0,0,0,0,0,0,0,0.023255814
+43,AGAP009194,GSTE2,amp,-,glutathione S-transferase epsilon class 2 [Source:VB Community Annotation],3R,28597652,28598640,0.441860465,0.2125,0.097560976,0.060240964,0.044303797,0.106918239,0,0,0.007751938,0,0,0.441860465
+44,AGAP009195,GSTE1,amp,-,glutathione S-transferase epsilon class 1 [Source:VB Community Annotation],3R,28598871,28599816,0.441860465,0.0375,0,0,0.006329114,0,0,0,0.007751938,0,0,0.441860465
+45,AGAP009196,GSTE7,amp,+,glutathione S-transferase epsilon class 7 [Source:VB Community Annotation],3R,28600347,28601354,0,0.0375,0,0,0.006329114,0,0,0,0.007751938,0,0,0.0375
+46,AGAP009197,GSTE3,amp,-,glutathione S-transferase epsilon class 3 [Source:VB Community Annotation],3R,28601368,28602280,0,0.0375,0,0,0.006329114,0,0,0,0.007751938,0,0,0.0375
+47,AGAP009342,GSTU3,amp,+,glutathione S-transferase unclassified 3 [Source:VB Community Annotation],3R,31556477,31558957,0.023255814,0.0375,0.032520325,0.006024096,0.012658228,0.025157233,0.010309278,0.01459854,0.031007752,0.145631068,0.028571429,0.145631068
+48,AGAP009946,GSTMS3,amp,+,glutathione transferase microsomal 3 [Source:VB Community Annotation],3R,45853445,45854470,0,0,0,0.006024096,0,0.006289308,0,0,0,0,0,0.006289308
+49,AGAP009946,GSTMS3,del,+,glutathione transferase microsomal 3 [Source:VB Community Annotation],3R,45853445,45854470,0,0,0.008130081,0.018072289,0.063291139,0.018867925,0,0.01459854,0.023255814,0.029126214,0.028571429,0.063291139
+50,AGAP010404,GSTS1,amp,-,glutathione S-transferase sigma class 1 [Source:VB Community Annotation],3L,2779074,2784473,0,0,0,0,0,0,0.030927835,0.03649635,0.023255814,0.009708738,0.028571429,0.03649635
+51,AGAP010404,GSTS1,del,-,glutathione S-transferase sigma class 1 [Source:VB Community Annotation],3L,2779074,2784473,0,0,0.081300813,0.012048193,0.018987342,0.018867925,0,0.051094891,0,0.077669903,0.142857143,0.142857143
